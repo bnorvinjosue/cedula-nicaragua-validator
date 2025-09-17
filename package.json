@@ -1,0 +1,27 @@
+{
+  "name": "cedula-nicaragua-validator",
+  "version": "1.0.0",
+  "description": "Validador de número de cédula nicaragüense (formato, fecha y letra).",
+  "keywords": [
+    "cedula",
+    "nicaragua",
+    "validator",
+    "identidad",
+    "dni"
+  ],
+  "homepage": "https://github.com/bnorvinjosue/cedula-nicaragua-validator#readme",
+  "bugs": {
+    "url": "https://github.com/bnorvinjosue/cedula-nicaragua-validator/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bnorvinjosue/cedula-nicaragua-validator.git"
+  },
+  "license": "MIT",
+  "author": "Norvin Josué Bustamante",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  }
+}
