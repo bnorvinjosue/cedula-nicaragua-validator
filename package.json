@@ -1,6 +1,6 @@
 {
   "name": "cedula-nicaragua-validator",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Validador de número de cédula nicaragüense (formato, fecha y letra).",
   "main": "index.js",
   "type": "module",

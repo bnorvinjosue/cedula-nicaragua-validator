@@ -14,6 +14,6 @@ export const departments = [
   "Nueva Segovia",
   "Rio San Juan",
   "Rivas",
-  "North Atlantic",
-  "South Atlantic"
+  "Atlántico Norte",
+  "Atlántico Sur"
 ];
