@@ -1,6 +1,4 @@
 'use strict';
-
-import { municipalities } from './municipalities.js';
 import { getMunicipalityDepartment, getDepartment, getMunicipality, showDepartments, showMunicipalities, showMunicipalitiesByDepartment } from './GeoInfo.js';
 
 const letras = "ABCDEFGHJKLMNPQRSTUVWXY"
